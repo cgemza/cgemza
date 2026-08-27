@@ -1,4 +1,4 @@
-# Chelsea Gemza
+# Chelsea Pulaski Gemza
 
 Electrical Engineering student based in Albuquerque, New Mexico with a professional background in national security, technical program management, systems engineering, and cybersecurity.
 
