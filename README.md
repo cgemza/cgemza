@@ -1,16 +1,19 @@
-## Hi there 👋
+# Chelsea Gemza
 
-<!--
-**cgemza/cgemza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student with a professional background in national security, technical program management, systems engineering, and cybersecurity.
 
-Here are some ideas to get you started:
+This GitHub documents engineering, programming, cybersecurity, and technical projects completed throughout my undergraduate studies and continuing technical education.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Areas of Study
+
+- Electrical Engineering
+- Python
+- MATLAB
+- Arduino and embedded systems
+- Linux
+- Cybersecurity
+- Systems engineering
+
+## Projects
+
+My repositories include coursework, technical labs, and independent projects developed as I continue building hands-on engineering and programming experience.
