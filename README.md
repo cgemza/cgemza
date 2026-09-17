@@ -4,6 +4,8 @@ Electrical Engineering student based in Albuquerque, New Mexico with a professio
 
 This GitHub documents engineering, programming, cybersecurity, and technical projects completed throughout my undergraduate studies and continuing technical education.
 
+Outside of engineering, I am raising four kids and working on our ranch in New Mexico.
+
 ## Current Areas of Study
 
 - Electrical Engineering
