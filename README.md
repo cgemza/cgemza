@@ -15,6 +15,7 @@ Outside of engineering, I am raising four kids and working on our ranch in New M
 - Linux
 - Cybersecurity
 - Systems engineering
+- Digital Engineering & MBSE
 
 ## Projects
 
