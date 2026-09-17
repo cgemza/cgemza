@@ -2,8 +2,6 @@
 
 Electrical Engineering student based in Albuquerque, New Mexico with a professional background in national security, technical program management, systems engineering, and cybersecurity.
 
-This GitHub documents engineering, programming, cybersecurity, and technical projects completed throughout my undergraduate studies and continuing technical education.
-
 Outside of engineering, I am raising four kids and working on our ranch in New Mexico.
 
 ## Current Areas of Study
@@ -11,10 +9,10 @@ Outside of engineering, I am raising four kids and working on our ranch in New M
 - Electrical Engineering
 - Python
 - MATLAB
-- Arduino and embedded systems
+- Arduino and Embedded Systems
 - Linux
 - Cybersecurity
-- Systems engineering
+- Systems Engineering
 - Digital Engineering & MBSE
 
 ## Projects
