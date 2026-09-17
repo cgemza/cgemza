@@ -1,8 +1,8 @@
 # Chelsea Pulaski Gemza
 
-Electrical Engineering student based in Albuquerque, New Mexico with a professional background in national security, technical program management, systems engineering, and cybersecurity.
+Electrical Engineering student based in Albuquerque with a professional background in national security, technical program management, systems engineering, and cybersecurity.
 
-Outside of engineering, I am raising four kids and working on our ranch in New Mexico.
+Outside of engineering, I am raising four kids and enjoying life in New Mexico.
 
 ## Current Areas of Study
 
