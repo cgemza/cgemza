@@ -17,6 +17,8 @@ Outside of engineering, I am raising four kids and enjoying life in New Mexico.
 
 ## Projects
 
-My repositories include coursework, technical labs, and independent projects developed as I continue building hands-on engineering and programming experience.
+My repositories include coursework, technical labs, and independent projects developed as I continue building hands-on engineering and programming experience. 
+
+Disclaimer: I use AI for writing and formatting some Read Me files. All programming work is my own.
 
 📍 Albuquerque, New Mexico
